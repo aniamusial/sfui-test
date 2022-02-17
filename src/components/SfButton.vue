@@ -1,5 +1,5 @@
 <template>
-<button>Hello</button>
+<button class="text-3xl font-bold underline">Hello</button>
 </template>
 <script lang="ts">
 import { defineComponent } from 'vue'
