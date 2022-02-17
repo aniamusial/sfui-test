@@ -1,4 +1,4 @@
-import SfButton from '../system/components/SfButton.vue';
+import SfButton from '../ui/components/SfButton/SfButton.vue';
 
 export default {
   title: 'COMPONENTS/Button',

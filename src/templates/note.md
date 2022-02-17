@@ -1,0 +1,1 @@
+Templates catalog is where we should keep code for boilerplates and ready to go pages.

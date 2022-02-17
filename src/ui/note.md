@@ -1,0 +1,1 @@
+UI catalog is the source of the design system and should include all basic components, that are part of the design system (so no examples or complicated ones like ProductCard here).

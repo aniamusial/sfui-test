@@ -1,0 +1,1 @@
+Everything stories and documentation related. Kept in a separate catalog as storybook provides a lot of features for documenting components, that also requires its own catalogs etc.
